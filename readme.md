@@ -1,8 +1,4 @@
 # mi first project
-one pice
+сапер на пайтоне
 ## list
-1.dfdsfs
-2.skdljfkd
-3.sjdfkdf
-### end
-bye
+сапер написанный на питоне
